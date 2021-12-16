@@ -1,0 +1,23 @@
+@import './../../../../styles/sass/abstracts/mixins.scss';
+@import './../../../../styles/sass/abstracts/variables.scss';
+
+
+h3,
+.shopMenu {
+   font-size: 14px;
+}
+
+.item {
+   padding-top: 5px;
+   list-style-type: none;
+}
+
+.link {
+   color: $basicTextColor;
+   text-decoration: none;
+}
+
+.list {
+   padding-left: 0;
+   text-align: start;
+}

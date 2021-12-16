@@ -1,0 +1,10 @@
+@import './../../../../styles/sass/abstracts/variables.scss';
+@import './../../../../styles/sass/abstracts/mixins.scss';
+
+
+
+
+
+.linkPersonal:not(:last-child) {
+   margin-right: 8px;
+}
